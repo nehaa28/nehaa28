@@ -1,10 +1,11 @@
-### Hi there 👋
+### 👋 Hi there, I'm Nehaa Bansal
 
 <!--
 **nehaa28/nehaa28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+- 🇮🇳 I'm from India, the land of cultures.
 - 🔭 I’m currently working on ...Data science particularly NLP interests me right now.
 - 🌱 I’m currently learning ...and updating everyday on Data Science, Machine Learning, Cloud, and the list goes on..
 - 👯 I’m looking to collaborate on ...anything related to 'Data'
