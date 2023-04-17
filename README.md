@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ![Nehaa's github stats](https://github-readme-stats.vercel.app/api?username=nehaa28&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehaa28&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehaa28&layout=compact&show_icons=true&theme=dark)](https://github.com/nehaa28/github-readme-stats)
 
 
 
