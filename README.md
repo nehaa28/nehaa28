@@ -2,9 +2,7 @@
 
 
 
-<!--https://i.imgur.com/9GNZGLH.gif
-
--->
+<!--https://i.imgur.com/9GNZGLH.gif -->
 
 
 ### 👋 Hi there, I'm Nehaa Bansal
