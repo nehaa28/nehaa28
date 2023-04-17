@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...She/her
 <br>
 
-**Profile Visitors:** 
-
-<br>
-
-![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
+**Profile Visitors:**    ![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
 
 <br>
 
