@@ -1,17 +1,15 @@
 <img align="right" alt="GIF" src="https://github.com/nehaa28/nehaa28/blob/main/gif.gif" width="360"/>
 
+<!--https://i.imgur.com/9GNZGLH.gif
 
+-->
 
-<!--https://i.imgur.com/9GNZGLH.gif -->
-
-
-### 👋 Hi there, I'm Nehaa Bansal
-
-<br><br>
+### Hey there 👋 My name is Nehaa Bansal! 
 
 **Profile Visitors:** 
-<br>
+
 ![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
+
 
 <!--
 **nehaa28/nehaa28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
