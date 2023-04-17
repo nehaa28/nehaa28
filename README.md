@@ -1,3 +1,10 @@
+<img align="right" alt="GIF" src="https://github.com/nehaa28/nehaa28/blob/master/gif.gif" width="360"/>
+
+<!--https://i.imgur.com/9GNZGLH.gif
+
+-->
+
+
 ### 👋 Hi there, I'm Nehaa Bansal
 
 **Profile Visitors:** 
