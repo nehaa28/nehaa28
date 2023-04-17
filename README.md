@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Azure Machine Learning | AWS Machine Learning | Data Analysis |
-| :---: | :---: | :---: |
+| Cloud | Azure Machine Learning | AWS Machine Learning | GCP Machine Learning |
+| :---: | :---: | :---: | :---: |
 
 <br>
 
