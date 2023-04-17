@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 | Pandas | Numpy | Matplotlib | Seaborn | 
 | :---: | :---: | :---: | :---: | 
 
-| Tensorflow | Keras | Pytorch |
-| :---: | :---: | :---: |
+| Tensorflow | Keras | Pytorch | OpenCV | 
+| :---: | :---: | :---: | :---: |
 
 | NLTK | NLP | Transformers | Hugging face | John Snow Lab |
 | :---: | :---: | :---: | :---: | :---: |
