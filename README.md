@@ -31,21 +31,23 @@ Here are some ideas to get you started:
 ### Languages and Tools
 
 
-| Python | Sklearn | Scala | R | Tableau |
+| Python | SQL | Scala | R | Tableau |
 | :---: | :---: | :---: | :---: | :---: |
 
-
-| Spacy | OpenCV | SQL | Pytorch | Numpy |
+| Pandas | Numpy | Matplotlib | Seaborn | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pandas | Seaborn | Tensorflow | Azure Machine Learning | Matplotlib |
+| Tensorflow | Keras | Pytorch |
+| :---: | :---: | :---: |
+
+| NLTK | NLP | Transformers | Hugging face | John Snow Lab |
 | :---: | :---: | :---: | :---: | :---: |
 
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Flask | NLTK | NLP | AWS Machine Learning | Data Analysis |
-| :---: | :---: | :---: | :---: | :---: |
+| Azure Machine Learning | AWS Machine Learning | Data Analysis |
+| :---: | :---: | :---: |
 
 <br>
 
