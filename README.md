@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/nehaa28/nehaa28/blob/master/gif.gif" width="360"/>
+<img align="right" alt="GIF" src="https://github.com/nehaa28/nehaa28/blob/master/gif.gif" width="36"/>
 
 <!--https://i.imgur.com/9GNZGLH.gif
 
