@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 - 💞️ You can also visit my portfolio ... https://nehaa28.github.io/
 - 😄 Pronouns: ...She/her
 <br>
-**Profile Visitors:** <br>
+**Profile Visitors:** 
+<br>
 
 ![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
 
 <br>
+
 ![Nehaa's github stats](https://github-readme-stats.vercel.app/api?username=nehaa28&show_icons=true&theme=dark)
 
 
