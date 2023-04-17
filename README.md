@@ -28,6 +28,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...She/her
 <br>
 
+### Languages and Tools
+
+
+| Python | Sklearn | Scala | R | Tableau |
+| :---: | :---: | :---: | :---: | :---: |
+
+
+| Spacy | OpenCV | SQL | Pytorch | Numpy |
+| :---: | :---: | :---: | :---: | :---: |
+
+| Pandas | Seaborn | Tensorflow | Azure Machine Learning | Matplotlib |
+| :---: | :---: | :---: | :---: | :---: |
+
+| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
+| :---: | :---: | :---: | :---: | :---: |
+
+| Flask | NLTK | NLP | AWS Machine Learning | Data Analysis |
+| :---: | :---: | :---: | :---: | :---: |
+
+<br>
+
 
 ![Nehaa's github stats](https://github-readme-stats.vercel.app/api?username=nehaa28&show_icons=true&theme=dark)
 
