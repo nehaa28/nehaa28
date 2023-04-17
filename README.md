@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 - 💞️ You can also visit my portfolio ... https://nehaa28.github.io/
 - 😄 Pronouns: ...She/her
 <br>
+
 **Profile Visitors:** 
+
 <br>
 
 ![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
