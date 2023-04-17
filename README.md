@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-**Profile Visitors:** 
+**Profile Visitors:** <br>
 
 ![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
 
