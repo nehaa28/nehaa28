@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 | Python | SQL | Scala | R | Tableau |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pandas | Numpy | Matplotlib | Seaborn | Numpy |
-| :---: | :---: | :---: | :---: | :---: |
+| Pandas | Numpy | Matplotlib | Seaborn | 
+| :---: | :---: | :---: | :---: | 
 
 | Tensorflow | Keras | Pytorch |
 | :---: | :---: | :---: |
