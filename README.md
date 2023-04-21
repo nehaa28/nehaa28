@@ -3,8 +3,11 @@
 <!--https://i.imgur.com/9GNZGLH.gif
 
 -->
+<!--
 **Profile Visitors:**     ![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
+-->
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nehaa28.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 
 ### Hey there 👋 My name is Nehaa Bansal! 
