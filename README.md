@@ -3,12 +3,12 @@
 <!--https://i.imgur.com/9GNZGLH.gif
 
 -->
+**Profile Visitors:**     ![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
+
+
 
 ### Hey there 👋 My name is Nehaa Bansal! 
 
-<br>
-
-**Profile Visitors:**     ![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
 
 <br>
 
