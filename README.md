@@ -7,7 +7,6 @@
 **Profile Visitors:**     ![](https://Visitor-badge.glitch.me/badge?page_id=nehaa28.profileviews-badge)
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nehaa28.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 ![](https://komarev.com/ghpvc/?username=nehaa28&label=PROFILE+VIEWS)
 
 
