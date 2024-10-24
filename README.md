@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning ...and updating everyday on Data Science, Machine Learning, Cloud, and the list goes on..
+- 🌱 I’m currently learning ...and updating everyday on GenAI, NLP, and the list goes on..
 - 📫 How to reach me: ...https://www.linkedin.com/in/nehaabansal/
 - 💞️ You can also visit my portfolio ... https://nehaa28.github.io/
 
