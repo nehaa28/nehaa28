@@ -22,14 +22,16 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌏 I'm from ...India, the land of cultures.
-- 🔭 I’m currently working on ...Data science particularly NLP interests me right now.
 - 🌱 I’m currently learning ...and updating everyday on Data Science, Machine Learning, Cloud, and the list goes on..
-- 👯 I’m looking to collaborate on ...anything related to 'Data'
-- 💬 Ask me about ...anything, I'll either know it or learn it
 - 📫 How to reach me: ...https://www.linkedin.com/in/nehaabansal/
 - 💞️ You can also visit my portfolio ... https://nehaa28.github.io/
-- 😄 Pronouns: ...She/her
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/../output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/../output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 
 ### Languages and Tools
